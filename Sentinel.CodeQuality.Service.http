@@ -1,0 +1,6 @@
+@Sentinel.CodeQuality.Service_HostAddress = http://localhost:5220
+
+GET {{Sentinel.CodeQuality.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

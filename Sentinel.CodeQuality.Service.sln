@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentinel.CodeQuality.Service", "Sentinel.CodeQuality.Service.csproj", "{DC74B7F1-E9CD-2E7E-0B36-D986B9AEF043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC74B7F1-E9CD-2E7E-0B36-D986B9AEF043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC74B7F1-E9CD-2E7E-0B36-D986B9AEF043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC74B7F1-E9CD-2E7E-0B36-D986B9AEF043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC74B7F1-E9CD-2E7E-0B36-D986B9AEF043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFFE506-B19A-4EDF-9CAA-0737EDBE6EC2}
+	EndGlobalSection
+EndGlobal
